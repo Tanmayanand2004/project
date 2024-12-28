@@ -1,4 +1,4 @@
-# Notes Hub
+# STUDYSPHERE
 
 Welcome to **STUDYDPHERE**, a simple and efficient HTML-based website designed for organizing and accessing your notes in one place. This project is lightweight and can be used locally or hosted online.
 
