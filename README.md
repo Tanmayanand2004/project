@@ -27,4 +27,6 @@ Welcome to **STUDYDPHERE**, a simple and efficient HTML-based website designed f
 2. Open the terminal in VS Code (`Ctrl + ~` or go to `View` > `Terminal`).
 3. Install dependencies:
 ```bash
+
+npm run dev
 npm install
