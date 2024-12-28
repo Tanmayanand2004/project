@@ -28,5 +28,6 @@ Welcome to **STUDYDPHERE**, a simple and efficient HTML-based website designed f
 3. Install dependencies:
 ```bash
 
-npm run dev
+
 npm install
+npm run dev
