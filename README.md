@@ -11,15 +11,20 @@ Welcome to **STUDYDPHERE**, a simple and efficient HTML-based website designed f
   
 
 ---
-#TO RUN THE CODE FOLLOW THESE STEPS
-
-
-
-USE GITHUB DESKTOP TO CLONE THE REPOSITORY 
-RUN THE REPOSITORY IN VS CODE
-   **TO RUN IN VS CODE
-       **GO TO TERMINAL
-       **TYPE-npm install
-       **TYPE-npm rum dev
-       **CLICK IN THE GENERATED LINK
 ---
+
+## Installation
+
+### Clone the Repository Using GitHub Desktop
+1. Open GitHub Desktop.
+2. Click on `File` > `Clone Repository`.
+3. Select `URL` and paste the repository link:
+
+4. 4. Choose a local path and click `Clone`.
+
+### Run the Repository in VS Code
+1. Open the cloned repository in VS Code.
+2. Open the terminal in VS Code (`Ctrl + ~` or go to `View` > `Terminal`).
+3. Install dependencies:
+```bash
+npm install
