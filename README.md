@@ -17,9 +17,9 @@ Welcome to **STUDYDPHERE**, a simple and efficient HTML-based website designed f
 
 USE GITHUB DESKTOP TO CLONE THE REPOSITORY 
 RUN THE REPOSITORY IN VS CODE
-   *TO RUN IN VS CODE
-       *GO TO TERMINAL
-       *TYPE-npm install
-       *TYPE-npm rum dev
-       *CLICK IN THE GENERATED LINK
+   **TO RUN IN VS CODE
+       **GO TO TERMINAL
+       **TYPE-npm install
+       **TYPE-npm rum dev
+       **CLICK IN THE GENERATED LINK
 ---
